@@ -3,8 +3,6 @@
 🔭 I’m currently working on my Roblox game and other fun side projects
 
 🌱 I’m also learning web languages and different software
-
-📫 How to reach me: https://linkedin.com/in/amin-raz
 <!--
 
 Here are some ideas to get you started:
