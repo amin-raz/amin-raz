@@ -1,8 +1,8 @@
 # Welcome to my profile 👋
 
-🔭 I’m currently working on my Roblox game and other fun side projects
+🔭 I’m currently working on random projects and research
 
-🌱 I’m also learning web languages and different software
+🌱 I’m also learning mulltiple languages and software
 <!--
 
 Here are some ideas to get you started:
