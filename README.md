@@ -1,9 +1,6 @@
-# Welcome to my profile 👋
+# Hi, I'm Amin. 👋
 
-🔭 I’m currently working on random projects and research
-
-🌱 I’m also learning mulltiple languages and software
-<!--
+I'm currently focused on building experience with modern technologies.
 
 Here are some ideas to get you started:
 
