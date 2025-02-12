@@ -2,7 +2,7 @@
 
 I'm a student interested in **math, AI/ML, and entrepreneurship**, building projects with modern technologies to explore AI and gaming innovation.
 
-### 🚀 About Me
+### 🔍 About Me
 - 🤖 **AI/ML Researcher** - Researched AI/ML and worked on front-end development during an internship at a ML startup.
 - 🚀 **Entrepreneurial Mindset** - Mentored student teams and pitched a gamified fitness app for kids.
 - 📊 **Math Enthusiast** - Tutoring students and solving problems.
