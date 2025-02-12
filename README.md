@@ -1,6 +1,4 @@
-<h1 align="center">
-  <span style="font-size: 40px;">Hi there, I'm Amin! 👋</span>
-</h1>
+<span style="font-size: 40px;">Hi there, I'm Amin! 👋</span>
 
 ### 🔍 About Me
 - 🤖 **AI/ML Researcher** - Researched AI/ML and worked on front-end development during an internship at a ML startup.
@@ -14,7 +12,6 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amin-raz&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amin-raz&theme=radical" />
 </p>
 
