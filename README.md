@@ -1,11 +1,10 @@
-### Hi, I'm Amin! 👋
+### Hi there, I'm Amin! 👋
 
-I'm a student passionate about **math, AI/ML, and entrepreneurship**. Currently, I'm building projects with modern technologies while exploring ways to innovate in AI and gaming.
+I'm a student interested in **math, AI/ML, and entrepreneurship**, building projects with modern technologies to explore AI and gaming innovation.
 
 ### 🚀 About Me
-- 🎮 Working on **Monkey Fighters**, a Roblox game with unique mechanics.
-- 🤖 Researched **AI/ML** during an internship at a startup.
-- 🚀 **Entrepreneurial** mindset—mentored student teams and pitched a product.
+- 🤖 Researched **AI/ML** and worked on front-end development during an internship at a startup.
+- 🚀 **Entrepreneurial** mindset—mentored student teams and pitched a gamified fitness app for kids.
 - 📊 Math enthusiast, always solving and creating interesting problems.
 
 ### 💡 Connect with Me
@@ -19,6 +18,4 @@ I'm a student passionate about **math, AI/ML, and entrepreneurship**. Currently,
 </p>
 
 ---
-_✨ Always experimenting, building, and learning!_
-
 ![Profile Views](https://komarev.com/ghpvc/?username=amin-raz&color=blueviolet)
