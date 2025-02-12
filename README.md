@@ -1,4 +1,4 @@
-<span style="font-size: 40px;">Hi there, I'm Amin! 👋</span>
+## Welcome to my GitHub Profile.
 
 ### 🔍 About Me
 - 🤖 **AI/ML Researcher** - Researched AI/ML and worked on front-end development during an internship at a ML startup.
@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/amin-raz)
 
 ### 📈 GitHub Stats
-<p align="center">
+<p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amin-raz&theme=radical" />
 </p>
 
