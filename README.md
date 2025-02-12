@@ -1,4 +1,4 @@
-### Hi there, I'm Amin! 👋
+## Hi there, I'm Amin! 👋
 
 I'm a student interested in **math, AI/ML, and entrepreneurship**, building projects with modern technologies to explore AI and gaming innovation.
 
