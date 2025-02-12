@@ -1,4 +1,4 @@
-## Welcome to my GitHub Profile.
+<h1 align="center">Welcome to my GitHub Profile.👋</h1>
 
 ### 🔍 About Me
 - 🤖 **AI/ML Researcher** - Researched AI/ML and worked on front-end development during an internship at a ML startup.
