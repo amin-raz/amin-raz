@@ -4,7 +4,7 @@
 - 🤖 **AI/ML Researcher** - Researched AI/ML and worked on front-end development during an internship at an AI/ML startup.
 - 🚀 **Entrepreneurial Mindset** - Mentoring student teams and pitched a gamified fitness app for kids.
 - 📊 **Math Enthusiast** - Tutoring students and solving problems.
-- 🎮 **Video Gamer** - Competitive gamer (love Counter-Strike)
+- 🎮 **Video Gamer** - Competitive gamer (love Counter-Strike).
 
 ### 📈 GitHub Stats
 <p align="left">
