@@ -1,7 +1,5 @@
 ## Hi there, I'm Amin! 👋
 
-I'm a student interested in **math, AI/ML, and entrepreneurship**, building projects with modern technologies to explore AI and gaming innovation.
-
 ### 🔍 About Me
 - 🤖 **AI/ML Researcher** - Researched AI/ML and worked on front-end development during an internship at a ML startup.
 - 🚀 **Entrepreneurial Mindset** - Mentoring student teams and pitched a gamified fitness app for kids.
