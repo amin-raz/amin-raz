@@ -1,7 +1,7 @@
 <h1>Hi, I'm Amin.👋</h1>
 
 ### 🔍 About Me
-- 🤖 **AI/ML Researcher** - Researched AI/ML and worked on front-end development during an internship at an AI/ML startup.
+- 🤖 **AI/ML Researcher** - Software engineering intern at an AI/ML startup.
 - 🚀 **Entrepreneurial Mindset** - Mentoring student teams and pitched a gamified fitness app for kids.
 - 📊 **Math Enthusiast** - Tutoring students and solving problems.
 - 🎮 **Video Gamer** - Competitive gamer (top ranks in Counter-Strike).
