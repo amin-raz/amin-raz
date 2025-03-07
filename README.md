@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amin.👋</h1>
+<h1>Welcome to my GitHub profile👋</h1>
 
 ### 🔍 About Me
 - 🤖 **AI/ML Researcher** - Software engineer intern at an AI/ML startup.
